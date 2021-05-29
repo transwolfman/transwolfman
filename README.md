@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @transwolfman
 - 👀 I’m interested in ... Gaming
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... my own games in the future.
 - 📫 How to reach me ... speedy200587@hotmail.com
 
